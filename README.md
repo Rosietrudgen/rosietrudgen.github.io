@@ -62,5 +62,6 @@ Here you can find my [Syndax Reference](https://daringfireball.net/projects/mark
 
 ## Images
 ! [alt text](path/to/img.jpg) `! [alt text](path/to/img.jpg)`
+! [image link name](/Method_image.png)
 
 
