@@ -56,8 +56,11 @@ You can use `#0969DA`if blue or `rgb(9,105,218)` notice the colour is visualised
 
 ## Links
 
-[Write the text you want to link inside´[]´ then paste the URL in ´()´](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
+Here you csn find my [Github syntax reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
 
 Here you can find my [Syndax Reference](https://daringfireball.net/projects/markdown/basics)
+
+## Images
+! [alt text](path/to/img.jpg) `! [alt text](path/to/img.jpg)`
 
 
