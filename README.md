@@ -60,8 +60,7 @@ Here you csn find my [Github syntax reference](https://docs.github.com/en/get-st
 
 Here you can find my [Syndax Reference](https://daringfireball.net/projects/markdown/basics)
 
-## Images
-! [alt text](path/to/img.jpg) `! [alt text](path/to/img.jpg)`
-! [image link name](rosietrudgen.github.io/Method_image.png)
-
+## Image links
+![image link name](/Method_image.png) </br> 
+`![alt text](path/to/img.jpg)` Notive no space and only extension is needed
 
